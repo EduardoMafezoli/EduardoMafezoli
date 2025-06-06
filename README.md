@@ -21,7 +21,6 @@ Based in Fortaleza, CE, I build lightning-fast, responsive websites using Tailwi
 
 ## 🌱 Learning & Interests
 - Deepening knowledge in TypeScript and GraphQL  
-- Exploring JAMstack patterns and headless CMS (Strapi, Contentful)  
 - Contributing to open-source libraries around Tailwind and Vue  
 
 ---
