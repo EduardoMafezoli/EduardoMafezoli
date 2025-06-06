@@ -5,13 +5,6 @@ Based in Fortaleza, CE, I build lightning-fast, responsive websites using Tailwi
 
 ---
 
-## 🔭 What I’m Working On
-- 🏗️ Creating a set of open-source Tailwind + GSAP components for static portfolios  
-- 📱 Experimenting with Nuxt 3 / Vue 3 for server-side-rendered PJAX experiences  
-- ⚛️ Porting some of my personal projects into React Native for mobile demos
-
----
-
 ## 💻 Skills & Technologies
 
 - **Static Sites:** HTML 5 • Tailwind CSS • GSAP • Alpine.js  
